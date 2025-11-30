@@ -1,6 +1,27 @@
-body {
+/* //////////////////////////////////////////////////////////////////////////// */
+/* FONTS Styles */
+/* //////////////////////////////////////////////////////////////////////////// */
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&family=Macondo&display=swap');
+
+.inter-regular {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.macondo-regular {
+  font-family: "Macondo", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* //////////////////////////////////////////////////////////////////////////// */
+/* Main Body CSS Styles */
+/* //////////////////////////////////////////////////////////////////////////// */
+/* body {
     background-color: red;
     color: yellow;
     margin: 0;
     padding: 20px;
-}
+} */
